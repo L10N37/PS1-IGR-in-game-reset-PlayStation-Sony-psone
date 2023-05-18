@@ -1,5 +1,11 @@
 # PS1 IGR (In Game Reset)
 
+<br>
+
+goes well with my [Dual Frequency Oscillator](https://github.com/L10N37/DFO-PS1-PSXTAL/tree/main) for True Dual Region! 
+
+<br>
+
 ## Why?
 
 Because I like coding, and i wanted to make my own IGR. Now I don't have to get up to reset my playstation. That is whether it has a PSIO or an Xstation installed. I can get back to the main menu (or reset the chosen game) with a simple key combo.
