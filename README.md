@@ -1,11 +1,5 @@
 # PS1 IGR (In Game Reset)
 
-<br>
-
-goes well with my [Dual Frequency Oscillator](https://github.com/L10N37/DFO-PS1-PSXTAL/tree/main) for True Dual Region! 
-
-<br>
-
 ## Why?
 
 Because I like coding, and i wanted to make my own IGR. Now I don't have to get up to reset my playstation. That is whether it has a PSIO or an Xstation installed. I can get back to the main menu (or reset the chosen game) with a simple key combo.
@@ -109,16 +103,21 @@ Luckily, unlike some UberNee flashes, you won't need to do an SPI flash ... but 
 
 
 ![alt text](assets/images/1.jpg) <br>
-My first install where I didn't even consider installation difficulty. I like to superglue the board down and remove the reset button.<br>
+My first install where I didn't even consider installation difficulty. I like to superglue the board down and remove the reset button. Note: I had zero issues using the RAW pin as I do on UberNee. This console was tested thoroughly and I don't usually get time to play games as much as I'd like to. I clocked Dino Crisis 2 on this system and put it through every shmup in my posession. The customer went MIA on me for a while and wanted me to test it before sending back to Japan. <br>
 <br>
 <br>
 
 ![alt text](/assets/images/2.jpg) <br>
-Here I found a completely flat surface to again, superglue the board down. This is much easier, and it's probably neater too. You won't dislodge those tiny components which any soldering noob (and even I, at times) will very, very likely accidently remove. The difference in most cases is I can re-install them again without doing any damage :P<br>
+Here I found a completely flat surface to again, superglue the board down. This is much easier, and it's probably neater too. You won't dislodge those tiny components which any soldering noob (and even I, at times) will very, very likely accidently remove. The difference in most cases is I can re-install them again without doing any damage :P  -- DO NOT USE THE RAW PIN, USE VCC !!<br>
 <br>
 <br>
 
-## do you have any other IGR's?
+![alt text](/assets/images/3.jpg) <br>
+Another installation method here, though, that red wire leads to 'RAW' under the insulation tape. -- DO NOT USE THE RAW PIN, USE VCC !! <br>
+<br>
+<br>
+
+## Do you have any other IGR's?
 
 Sure thing 
 
